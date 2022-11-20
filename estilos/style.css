@@ -2,13 +2,25 @@
     font-family: Arial, Arial, Helvetica, sans-serif;
     font-size: 16px;
 }
-body {
+body{
     background-color: rgb(190, 163, 216);
 }
 main{
     background-color: white;
-    width: 500px;
+    width: 600px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.486)
+}
+
+
+img.cabecalho{
+    width: 100px;
+    height: 100px;
+}
+
+img.lado{
+    float: right;
+    width: 50px;
+    height: 50px;
 }
